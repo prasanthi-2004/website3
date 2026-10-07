@@ -1,0 +1,128 @@
+.head{
+    background-color:rgb(48, 157, 81)  ;
+}
+.para{
+    margin-left: 300px;
+}
+.box1{
+    margin-top: -90px;
+    background-color: white;
+    border: 2px solid whitesmoke;
+    width: 450px;
+}
+.box2{
+    margin-top: -90px;
+    background-color: white;
+    border: 2px solid whitesmoke;
+    width: 450px;
+}
+.box1:hover{
+    border-top: 5px solid rgb(48, 157, 81)  ;
+}
+.box2:hover{
+    border-top: 5px solid rgb(48, 157, 81)  ;
+}
+.one1{
+    margin-left:0px;
+    border-radius: 50%;
+    border: 2px solid gray;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+.two1{
+    margin-left:0px;
+    border-radius: 50%;
+    border: 2px solid gray;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+.three1{
+    margin-left:0px;
+    border-radius: 50%;
+    border: 2px solid gray;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+.four1{
+    margin-left:0px;
+    border-radius: 50%;
+    border: 2px solid gray;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+.one1:hover{
+    color: rgb(48, 157, 81);
+    border: rgb(48, 157, 81);
+}
+.two1:hover{
+    color: rgb(48, 157, 81);
+    border: rgb(48, 157, 81);
+}
+.three1:hover{
+    color: rgb(48, 157, 81);
+    border: rgb(48, 157, 81);
+}
+.four1:hover{
+    color: rgb(48, 157, 81);
+    border: rgb(48, 157, 81);
+}
+.our:hover{
+    color: rgb(48, 157, 81);
+}
+.botbut{
+    margin-left: -40px;
+}
+.searchh{
+    width: 350px;
+    border: 1px solid gray;
+}
+.gray{
+    background-color: gainsboro;
+}
+.foot{
+    background-color: whitesmoke;
+}
+.nav li a:hover{
+    color:rgb(48, 157, 81) ;
+    font-weight: bold;
+
+}
+@media screen and (min-width:320px) and (max-width:468px){
+.head{
+    width: 400px;
+} 
+.para{
+    margin-left:-5px;
+    padding-left: 40px;
+    text-align: center;
+}
+.home{
+    width: 400px;
+}
+.image1{
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+.image2{
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+.box1{
+    display: none;
+    
+    
+}
+.box2{
+    display: none;
+}
+.foot{
+    width: 400px;
+}
+.searchh{
+    width: 100px;
+}
+}

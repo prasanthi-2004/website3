@@ -1,0 +1,305 @@
+.b{
+    margin-top: -500px;
+}
+.v{
+    margin-top: 300px;
+}
+
+.nums{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.numbs{
+    background-color: whitesmoke;
+    padding-left: 200px;
+    
+}
+.cards{
+    background-color: rgb(48, 157, 81);
+}
+.rounds{
+    border-radius: 50%;
+    background-color:whitesmoke ;
+    padding: 20px;
+    width: 70px;
+    margin-left: 80px;
+    
+    
+    color: rgb(48, 157, 81);
+}
+.rounds:hover{
+    background-color: rgb(48, 157, 81);
+    color: white;
+}
+.numbers{
+    color: rgb(48, 157, 81);
+}
+ .box .boxes{
+    border: 1px solid gray;
+    width: 300px;
+    height: 60px;
+    margin-bottom: 30px;
+}
+.box .boxes:hover{
+    border: 2px solid rgb(48, 157, 81);
+    color: rgb(48, 157, 81);
+}
+.boxmargin{
+
+    border: 2px solid green;
+    width: 120px;
+    height: 2px;
+    margin-left: 10px;
+    margin-top: 18px;
+}
+.footp{
+    width: 50px;
+    height: 45px;
+    border-radius: 50%;
+    background-image: url('trainer-1-2.jpg');
+    background-position: center;
+    background-size: cover;
+
+}
+.footp1{
+    width: 50px;
+    height: 45px;
+    border-radius: 50%;
+    background-image: url('trainer-2-2.jpg');
+    background-position: center;
+    background-size: cover;
+
+}
+.footp2{
+    width: 50px;
+    height: 45px;
+    border-radius: 50%;
+    background-image: url('trainer-3-2.jpg');
+    background-position: center;
+    background-size: cover;
+
+}
+.fn{
+    margin-left: -120px;
+    margin-top: 10px;
+}
+.one{
+    margin-left: 140px;
+}
+.one  :hover{
+    color:rgb(48, 157, 81);
+    
+}
+.two  :hover{
+    color:rgb(48, 157, 81);
+    
+}
+.three  :hover{
+    color:rgb(48, 157, 81);
+    
+}
+.four  :hover{
+    color:rgb(48, 157, 81);
+    
+}
+.one1{
+    margin-left:0px;
+    border-radius: 50%;
+    border: 2px solid gray;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+.two1{
+    margin-left:0px;
+    border-radius: 50%;
+    border: 2px solid gray;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+.three1{
+    margin-left:0px;
+    border-radius: 50%;
+    border: 2px solid gray;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+.four1{
+    margin-left:0px;
+    border-radius: 50%;
+    border: 2px solid gray;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+.one1:hover{
+    color: rgb(48, 157, 81);
+    border: rgb(48, 157, 81);
+}
+.two1:hover{
+    color: rgb(48, 157, 81);
+    border: rgb(48, 157, 81);
+}
+.three1:hover{
+    color: rgb(48, 157, 81);
+    border: rgb(48, 157, 81);
+}
+.four1:hover{
+    color: rgb(48, 157, 81);
+    border: rgb(48, 157, 81);
+}
+.our:hover{
+    color: rgb(48, 157, 81);
+}
+.botbut{
+    margin-left: -40px;
+}
+.searchh{
+    width: 350px;
+    border: 1px solid gray;
+}
+.gray{
+    background-color: gainsboro;
+}
+.foot{
+    background-color: whitesmoke;
+}
+.nav li a:hover{
+    color:rgb(48, 157, 81) ;
+    font-weight: bold;
+
+}
+.volume{
+    margin-top:50px;
+}
+.mimg{
+    margin-left: 200px;
+}
+.heropara{
+    font-size: 50px;
+    margin-top: -20px;
+}
+.herop{
+    font-size: 30px;
+}
+.b{
+    
+    line-height: 30px;
+    margin-left: -30px;
+    width: 500px;
+    
+}
+.firstbg{
+    background-image: url('hero-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    position: relative;
+}
+.secong{
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 80px;
+}
+@media screen and (min-width:320px) and (max-width:468px) {
+
+.volume{
+    width: 800px;
+    
+}
+.v1{
+    font-size: 40px;
+}
+.volume .vol{
+   margin-left: 80px;
+   font-size: 30px;
+   margin-bottom: 30px;
+   width: 500px;
+   margin-top: -40px;
+   
+}
+
+.volume .mimg{
+    width: 800px;
+    margin-left: 20px;
+    margin-top: 30px;
+    
+}
+.numbs{
+    text-align: center;
+    font-size: 30px;
+}
+.numbs{
+    width: 800px;
+    padding:0px 50px
+    
+}
+.numbs h1{
+    font-size: 50px;
+}
+.boom{
+    margin-top: 40px;
+    margin-left: 70px;
+    width: 800px;
+}
+.course{
+    font-size: 50px;
+    
+}
+.cou{
+    margin-left: 10px;
+    width: 800px;
+    font-size: 25px;
+   
+   
+}
+#C1{
+    font-size: 50px;
+}
+.c2{
+    font-size: 40px;
+
+}
+.boxmargin{
+    margin-top: 40px;
+}
+.trainer{
+    margin-left: 10px;
+    width: 800px;
+    font-size: 25px;
+
+}
+.foot{
+    width: 800px;
+    font-size: 25px;
+}
+.what{
+   font-size: 25px;
+   margin-left: 250px;
+   width: 100%;
+}
+
+.nav1{
+    width: 800px;
+    padding: 20px 0px;
+    
+}
+.heropara{
+    font-size: 50px;
+}
+.herop{
+    font-size: 30px;
+}
+.firstbg{
+    width: 800px;
+}
+.secong{
+    width: 400px;
+    margin-top: 20px;
+}
+
+}
